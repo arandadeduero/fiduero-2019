@@ -2,21 +2,21 @@
 
 @font-face {
   font-family: 'FontAwesome';
-  src:  url('../fonts/fontawesome-webfont.eot%3Fv=4.2.0');
-  src:  url('../fonts/fontawesome-webfont.eot%3F') format('embedded-opentype'),
-      url('../fonts/fontawesome-webfont.woff%3Fv=4.2.0') format('woff'),
-      url('../fonts/fontawesome-webfont.ttf%3Fv=4.2.0') format('truetype'),
-      url('../fonts/fontawesome-webfont.svg%3Fv=4.2.0') format('svg');
+  src:  url('../fonts/fontawesome-webfont.eot');
+  src:  url('../fonts/fontawesome-webfont.eot') format('embedded-opentype'),
+      url('../fonts/fontawesome-webfont.woff') format('woff'),
+      url('../fonts/fontawesome-webfont.ttf') format('truetype'),
+      url('../fonts/fontawesome-webfont.svg') format('svg');
 }
 
 @font-face {
   font-family: 'simple-line-icons';
   src: url('../fonts/Simple-Line-Icons.eot');
-  src: url('../fonts/Simple-Line-Icons.eot%3F') format('embedded-opentype'),
+  src: url('../fonts/Simple-Line-Icons.eot') format('embedded-opentype'),
     url('../fonts/Simple-Line-Icons.ttf') format('truetype'),
     url('../fonts/Simple-Line-Icons.woff2') format('woff2'),
     url('../fonts/Simple-Line-Icons.woff') format('woff'),
-    url('../fonts/Simple-Line-Icons.svg%3F') format('svg');
+    url('../fonts/Simple-Line-Icons.svg') format('svg');
 }
 
 
