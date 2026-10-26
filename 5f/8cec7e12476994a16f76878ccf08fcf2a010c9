@@ -1,0 +1,46 @@
+tools/banner.sh
+  s_5467482fa7b1b5::t_7159c8aa7a8abd 6,9,11
+  s_5467482fa7b1b5::t_75ed396da3ce9e 2-3,7-8,10,12-13,15-19
+README.md
+  s_5467482fa7b1b5::t_188c2795385eaa 14
+site/actividades/index.html
+  s_5467482fa7b1b5::t_827e6cef8b665d 166-175
+site/contacto/index.html
+  s_5467482fa7b1b5::t_e23045e61b0dc2 166-175
+site/feria/index.html
+  s_5467482fa7b1b5::t_db06950faca763 166-175
+site/galeria-de-fotos/index.html
+  s_5467482fa7b1b5::t_0f55bc0f475c25 166-175
+site/horarios/index.html
+  s_5467482fa7b1b5::t_f9fac7c8b70c5d 166-175
+site/index.html
+  s_5467482fa7b1b5::t_40cda70ea4fe69 166-175
+site/inscripcion/index.html
+  s_5467482fa7b1b5::t_4d66bbc758d352 166-175
+site/localizacion/index.html
+  s_5467482fa7b1b5::t_42985188241295 166-175
+site/normas-e-informacion/index.html
+  s_5467482fa7b1b5::t_3a1d2f4465f058 166-175
+site/plano.html
+  s_5467482fa7b1b5::t_aa977af1bd6fbb 165-174
+site/plano/index.html
+  s_5467482fa7b1b5::t_c88cc50a72927f 165-174
+site/videos/index.html
+  s_5467482fa7b1b5::t_7e552fc8119cc0 166-175
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "5f8cec7e12476994a16f76878ccf08fcf2a010c9",
+  "prompts": {},
+  "sessions": {
+    "s_5467482fa7b1b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a28e80-4aec-4d30-acff-94866a839fa7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
