@@ -11,7 +11,9 @@ Se publica en <https://fiduero.arandadeduero.dev/>.
 - `tools/selfhost.sh`: aloja las fuentes de Google en `site/fonts/` y quita Google Analytics y html5shiv.
 - `tools/fix-querynames.sh`: quita el `?ver=…` que `wget` dejó en los nombres de fichero (`jquery.min.js?ver=3.7.1`). Sin la extensión real, GitHub Pages sirve los JS como `application/octet-stream` con `nosniff` y el navegador no los ejecuta.
 
-Los tres scripts se pueden volver a ejecutar sin problema: `tools/localize.sh site && tools/selfhost.sh site && tools/fix-querynames.sh site`.
+- `tools/banner.sh`: añade arriba de cada página el aviso de que es una copia estática de archivo.
+
+Los scripts se pueden volver a ejecutar sin problema: `tools/localize.sh site && tools/selfhost.sh site && tools/fix-querynames.sh site && tools/banner.sh site`.
 
 ## Recursos externos que quedan
 
