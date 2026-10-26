@@ -33,14 +33,14 @@ jobs:
         env:
           URL: ${{ steps.deployment.outputs.page_url }}
         run: |
-          base="${URL%/}"
+          base="${URL%/}" # http:// mientras GitHub no tenga certificado; Cloudflare redirige a https (de ahí -L)
           # Pages manda nosniff: si un JS no sale como javascript, el navegador no lo ejecuta (ver tools/fix-querynames.sh)
           for intento in $(seq 1 18); do
-            if curl -fsS "$base/" | grep -q "Fiduero 2019" \
-              && curl -fsS "$base/actividades/" | grep -q "ACTIVIDADES" \
-              && curl -fsS -o /dev/null -w '%{content_type}' "$base/wp-includes/js/jquery/jquery.min.js" | grep -q javascript \
-              && curl -fsS -o /dev/null -w '%{content_type}' "$base/wp-content/themes/arandaenfiestas/style.css" | grep -q text/css \
-              && curl -fsS -o /dev/null "$base/fonts/gf-1.css"; then
+            if curl -fsSL "$base/" | grep -q "Fiduero 2019" \
+              && curl -fsSL "$base/actividades/" | grep -q "ACTIVIDADES" \
+              && curl -fsSL -o /dev/null -w '%{content_type}' "$base/wp-includes/js/jquery/jquery.min.js" | grep -q javascript \
+              && curl -fsSL -o /dev/null -w '%{content_type}' "$base/wp-content/themes/arandaenfiestas/style.css" | grep -q text/css \
+              && curl -fsSL -o /dev/null "$base/fonts/gf-1.css"; then
               echo "La web carga en $base"; exit 0
             fi
             echo "Intento $intento: todavía no responde, espero 10 s…"; sleep 10
