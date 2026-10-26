@@ -1,0 +1,60 @@
+tools/fix-querynames.sh
+  s_5467482fa7b1b5::t_25d00522d53a91 1-11
+tools/localize.sh
+  s_5467482fa7b1b5::t_aeeb184c4fa247 14-15
+.github/workflows/pages.yml
+  s_5467482fa7b1b5::t_365a084e34eb23 37,41-42
+README.md
+  s_5467482fa7b1b5::t_fab307a0cefb8a 24
+  s_5467482fa7b1b5::t_f19720d56e9248 12,14
+site/actividades/index.html
+  s_5467482fa7b1b5::t_17955e860ac278 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,334-335,346-359
+site/contacto/index.html
+  s_5467482fa7b1b5::t_ce04b3d0300ecb 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,430-431,442-455
+site/feria/index.html
+  s_5467482fa7b1b5::t_5cbefb3ac950d9 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,353-355,366-380
+site/galeria-de-fotos/index.html
+  s_5467482fa7b1b5::t_e73e0b1d74a351 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,327-328,339-352
+site/horarios/index.html
+  s_5467482fa7b1b5::t_3e134f43cbab5d 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,599-600,611-624
+site/index.html
+  s_5467482fa7b1b5::t_95bb908e9c33ca 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,384-385,396-409
+site/inscripcion/index.html
+  s_5467482fa7b1b5::t_377a570f37ebb6 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,337-338,349-362
+site/localizacion/index.html
+  s_5467482fa7b1b5::t_72ac9fb940b938 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,334-335,346-359
+site/normas-e-informacion/index.html
+  s_5467482fa7b1b5::t_ca4a5821b61a11 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,418-419,430-443
+site/plano.html
+  s_5467482fa7b1b5::t_a2835f133f6ede 40-43,45-46,62,73-75,79-88,91-93,99-105,111-112,118,349-351,362-376
+site/plano/index.html
+  s_5467482fa7b1b5::t_5f7358cefa218a 40-43,45-46,62,73-75,79-88,91-93,99-105,111-112,118,349-351,362-376
+site/videos/index.html
+  s_5467482fa7b1b5::t_c3a46b244f711e 41-44,46-47,63,74-76,80-89,92-94,100-106,112-113,119,336-337,348-361
+site/wp-content/plugins/image-map-pro-wordpress/css/image-map-pro.min.css
+  s_5467482fa7b1b5::t_fce5972d581994 4
+site/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css
+  s_5467482fa7b1b5::t_fe3a689971bd89 1
+site/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css
+  s_5467482fa7b1b5::t_d7ab3cf1cdfc57 5-9,15,19
+site/wp-content/plugins/revslider/public/assets/css/settings.css
+  s_5467482fa7b1b5::t_19d50045ce1ec1 83-87
+site/wp-content/themes/arandaenfiestas/css/base.css
+  s_5467482fa7b1b5::t_4535a9cfd90bd1 178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "68229c058e02e6923c56a014529275dbf7842db6",
+  "prompts": {},
+  "sessions": {
+    "s_5467482fa7b1b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a28e80-4aec-4d30-acff-94866a839fa7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
