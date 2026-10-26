@@ -1,0 +1,177 @@
+.github/workflows/pages.yml
+  s_5467482fa7b1b5::t_413a16fc149eef 1-47
+README.md
+  s_5467482fa7b1b5::t_9899aa665becef 1-23
+.gitignore
+  s_5467482fa7b1b5::t_402ee882408540 1-2
+site/actividades/index.html
+  s_5467482fa7b1b5::t_95ecf35f2bc899 1-386
+site/contacto/index.html
+  s_5467482fa7b1b5::t_5f806413d3a9d7 1-461
+site/feria/index.html
+  s_5467482fa7b1b5::t_fd7ee355181d42 1-385
+site/fonts/gf-1.css
+  s_5467482fa7b1b5::t_147ab32030e655 1-306
+site/fonts/gf-2.css
+  s_5467482fa7b1b5::t_f71865b65fd1f8 1-404
+site/fonts/gf-3.css
+  s_5467482fa7b1b5::t_235d98a99ade87 1-168
+site/fonts/gf-4.css
+  s_5467482fa7b1b5::t_c3d9b91977b149 1-240
+site/galeria-de-fotos/index.html
+  s_5467482fa7b1b5::t_ecaef884b44987 1-357
+site/horarios/index.html
+  s_5467482fa7b1b5::t_3ec66e2cb4afef 1-629
+site/index.html
+  s_5467482fa7b1b5::t_328a18bad721a4 1-414
+site/inscripcion/index.html
+  s_5467482fa7b1b5::t_f71abcef2a7bd4 1-367
+site/localizacion/index.html
+  s_5467482fa7b1b5::t_19b8066fb80245 1-365
+site/normas-e-informacion/index.html
+  s_5467482fa7b1b5::t_0773d4f33c519d 1-448
+site/plano.html
+  s_5467482fa7b1b5::t_f7b6facedc467e 1-381
+site/plano/index.html
+  s_5467482fa7b1b5::t_7644c8f4ea5f16 1-381
+site/videos/index.html
+  s_5467482fa7b1b5::t_d686d5a5387242 1-366
+site/wp-content/plugins/LayerSlider/static/layerslider/css/layerslider.css?ver=6.1.6.css
+  s_5467482fa7b1b5::t_42302b2f3cf03a 1-1107
+site/wp-content/plugins/LayerSlider/static/layerslider/js/greensock.js?ver=1.19.0
+  s_5467482fa7b1b5::t_2556562db823af 1-35
+site/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.kreaturamedia.jquery.js?ver=6.1.6
+  s_5467482fa7b1b5::t_ecb28e146cbe78 1-13
+site/wp-content/plugins/LayerSlider/static/layerslider/js/layerslider.transitions.js?ver=6.1.6
+  s_5467482fa7b1b5::t_48ca4749087c47 1-13
+site/wp-content/plugins/LayerSlider/static/layerslider/skins/v6/skin.css
+  s_5467482fa7b1b5::t_a165ed44af59fe 1-277
+site/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/estilos.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_25fff4b3d0de61 1-319
+site/wp-content/plugins/asesor-cookies-para-la-ley-en-espana/html/front/principal.js?ver=6.7.10
+  s_5467482fa7b1b5::t_620fff3b1b774f 1-207
+site/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.0.2.css
+  s_5467482fa7b1b5::t_91b5a24c29f19b 1-110
+site/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=5.0.2
+  s_5467482fa7b1b5::t_b7d07e353f9b13 1-531
+site/wp-content/plugins/image-map-pro-wordpress/css/image-map-pro.min.css?ver=4.4.2.css
+  s_5467482fa7b1b5::t_de6eda8e7fada7 1-6
+site/wp-content/plugins/image-map-pro-wordpress/fonts/fontawesome-webfont.svg?v=4.7.0
+  s_5467482fa7b1b5::t_b06fc88cff038f 1-2671
+site/wp-content/plugins/image-map-pro-wordpress/js/image-map-pro.min.js?ver=4.4.2
+  s_5467482fa7b1b5::t_3b0c7ed51914df 1-4
+site/wp-content/plugins/modern-events-calendar-lite/assets/css/frontend.min.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_9d878d7e96f546 1
+site/wp-content/plugins/modern-events-calendar-lite/assets/css/iconfonts.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_15193af3a6d17e 1-848
+site/wp-content/plugins/modern-events-calendar-lite/assets/fonts/Simple-Line-Icons.svg?
+  s_5467482fa7b1b5::t_f90bad98e06233 1-200
+site/wp-content/plugins/modern-events-calendar-lite/assets/fonts/Simple-Line-Icons.svg?v=2.3.1
+  s_5467482fa7b1b5::t_1c70de07b95b56 1-200
+site/wp-content/plugins/modern-events-calendar-lite/assets/fonts/fontawesome-webfont.svg?v=4.2.0
+  s_5467482fa7b1b5::t_cc40b9d12b7b26 1-685
+site/wp-content/plugins/modern-events-calendar-lite/assets/js/events.js?ver=6.7.10
+  s_5467482fa7b1b5::t_d53d96e79f2817 1-537
+site/wp-content/plugins/modern-events-calendar-lite/assets/js/frontend.js?ver=6.7.10
+  s_5467482fa7b1b5::t_acce7aa307be80 1-3543
+site/wp-content/plugins/modern-events-calendar-lite/assets/js/jquery.typewatch.js?ver=6.7.10
+  s_5467482fa7b1b5::t_d361aa25496f89 1-102
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/colorbrightness/colorbrightness.min.js?ver=6.7.10
+  s_5467482fa7b1b5::t_d83777aad41687 1-11
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_5c6ba98df7db82 1
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/lity/lity.min.js?ver=6.7.10
+  s_5467482fa7b1b5::t_3edbb9feaaa635 1-4
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/owl-carousel/owl.carousel.min.js?ver=6.7.10
+  s_5467482fa7b1b5::t_2085800eee342e 1-3448
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_aa46d7d27166cb 1
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltip.js?ver=6.7.10
+  s_5467482fa7b1b5::t_c9a41f2c3b9175 1-2
+site/wp-content/plugins/modern-events-calendar-lite/assets/packages/tooltip/tooltipster-sideTip-shadow.min.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_17def4c8649dfb 1
+site/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.7.4.css
+  s_5467482fa7b1b5::t_fdb75243ce3a67 1-1318
+site/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+  s_5467482fa7b1b5::t_436ee7658d05ba 1-54
+site/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.7.4
+  s_5467482fa7b1b5::t_f2299d67132a95 1-7
+site/wp-content/plugins/waspthemes-yellow-pencil/library/css/animate.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_42cd304ae1aef2 1-6
+site/wp-content/plugins/waspthemes-yellow-pencil/library/js/css-engine.js?ver=1.0
+  s_5467482fa7b1b5::t_ee7f771a40d953 1-265
+site/wp-content/plugins/waspthemes-yellow-pencil/library/js/yellow-pencil-library.js?ver=1.0
+  s_5467482fa7b1b5::t_cebe7ab8f3da10 1-113
+site/wp-content/themes/arandaenfiestas/assets/animations/animations.min.css?ver=17.4.css
+  s_5467482fa7b1b5::t_f8e2ff840e3de8 1
+site/wp-content/themes/arandaenfiestas/assets/animations/animations.min.js?ver=17.4
+  s_5467482fa7b1b5::t_a9f1204452a5a6 1-4
+site/wp-content/themes/arandaenfiestas/assets/jplayer/css/jplayer.blue.monday.css?ver=17.4.css
+  s_5467482fa7b1b5::t_9e970d08734f9f 1-155
+site/wp-content/themes/arandaenfiestas/assets/jplayer/jplayer.min.js?ver=17.4
+  s_5467482fa7b1b5::t_ee8f8498b276d7 1-114
+site/wp-content/themes/arandaenfiestas/assets/prettyPhoto/prettyPhoto.css?ver=17.4.css
+  s_5467482fa7b1b5::t_ca29a2e1ddccb2 1-170
+site/wp-content/themes/arandaenfiestas/assets/ui/jquery.ui.all.css?ver=17.4.css
+  s_5467482fa7b1b5::t_514151ed2c2204 1-268
+site/wp-content/themes/arandaenfiestas/css/base.css?ver=17.4.css
+  s_5467482fa7b1b5::t_960327e337ea1a 1-513
+site/wp-content/themes/arandaenfiestas/css/layout.css?ver=17.4.css
+  s_5467482fa7b1b5::t_8a50715453a387 1-1658
+site/wp-content/themes/arandaenfiestas/css/responsive.css?ver=17.4.css
+  s_5467482fa7b1b5::t_805ddeb9673204 1-1103
+site/wp-content/themes/arandaenfiestas/css/shortcodes.css?ver=17.4.css
+  s_5467482fa7b1b5::t_f4d8edd5e90119 1-1749
+site/wp-content/themes/arandaenfiestas/fonts/mfn-icons.svg?23391439
+  s_5467482fa7b1b5::t_1554378b077e80 1-844
+site/wp-content/themes/arandaenfiestas/js/menu.js?ver=17.4
+  s_5467482fa7b1b5::t_26870a521150af 1-116
+site/wp-content/themes/arandaenfiestas/js/parallax/translate3d.js?ver=17.4
+  s_5467482fa7b1b5::t_c9398b04a989b0 1-269
+site/wp-content/themes/arandaenfiestas/js/plugins.js?ver=17.4
+  s_5467482fa7b1b5::t_e4ee9766b197fe 1-145
+site/wp-content/themes/arandaenfiestas/js/scripts.js?ver=17.4
+  s_5467482fa7b1b5::t_067a210220fb3d 1-2477
+site/wp-content/themes/arandaenfiestas/style.css?ver=17.4.css
+  s_5467482fa7b1b5::t_a0c1e341dbf8b7 1-12
+site/wp-includes/css/dist/block-library/style.min.css?ver=6.7.10.css
+  s_5467482fa7b1b5::t_5a4efbe269ffc5 1-11
+site/wp-includes/js/comment-reply.min.js?ver=6.7.10
+  s_5467482fa7b1b5::t_4a11efe1d0186b 1-2
+site/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+  s_5467482fa7b1b5::t_a6d132d2323f6a 1-2
+site/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+  s_5467482fa7b1b5::t_b334bb17087eb1 1-3
+site/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_80c8a43dc428ec 1-9
+site/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_c56083a78b0459 1-116
+site/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_00efece2ef6c6e 1-9
+site/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_e857eabb7570e0 1-9
+site/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_d81fcd92a6498b 1-9
+site/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.3
+  s_5467482fa7b1b5::t_7f491b6ca5d624 1-9
+tools/localize.sh
+  s_5467482fa7b1b5::t_92c60196e9f437 1-17
+tools/selfhost.sh
+  s_5467482fa7b1b5::t_688cae46c42007 1-32
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "902b28a208c213d60c337d1b109647750d3907d0",
+  "prompts": {},
+  "sessions": {
+    "s_5467482fa7b1b5": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "24a28e80-4aec-4d30-acff-94866a839fa7",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Guillermo López <willyaranda@gmail.com>"
+    }
+  }
+}
